@@ -275,7 +275,7 @@ export const AdminLogin = () => {
                  </form>
 
                  <div className="mt-6 text-center">
-                     <p className="text-xs text-gray-400">Hint: The password is <span className="font-mono text-dragon-red font-bold">dragonfist</span></p>
+                     <p className="text-xs text-gray-400">Hint: The password is <span className="font-mono text-dragon-red font-bold">to be known</span></p>
                  </div>
              </div>
         </div>
